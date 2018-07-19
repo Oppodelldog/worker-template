@@ -1,0 +1,7 @@
+.build/*
+!.build/worker.toml
+.release/v*
+.idea
+vendor
+coverage.txt
+.dist
